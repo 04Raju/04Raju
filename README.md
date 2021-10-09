@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @04Raju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Raju Jettappa
+- 👀 I’m interested in Coding & Solving Problems
+- 🌱 I’m Completed my BCA
+- 💞️ I’m looking to collaborate on Java Programing & AI 
+- 📫 How to reach me Rajujettappa04@gmail.com 
 
 <!---
 04Raju/04Raju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
